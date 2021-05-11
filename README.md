@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**benjamingeets/benjamingeets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://benjamingeets.be">Website</a> •
+  <a href="https://www.linkedin.com/in/benjamingeets">Linkedin</a> •
+  <a href="https://twitter.com/intent/user?screen_name=benjamingeets">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
+I'm Benjamin Geets, Belgian Student (e-Business HEPH Condorcet) and self learning web dev. Currently, I work a lot with VueJS and NuxtJS. (💚)
+I write on my blog at [benjamingeets.be/blog](https://benjamingeets.be/blog) about web dev (but in French only).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning React.
+
+* 👨‍🎓 Studying at [HEPH Condorcet](https://condorcet.be) <br/>
+* 📄 Discover my [Curriculum Vitae](https://geets.dev/Benjamin_Geets_CV.pdf)<br/>
+* 📫 Contact me by [Mail](mailto:b@geets.dev) 
+
+
