@@ -7,7 +7,7 @@
 </p>
 
 I'm Benjamin Geets, Belgian Student (e-Business HEPH Condorcet) and self learning web dev. Currently, I work a lot with VueJS and NuxtJS. (💚)
-I write on my blog at [benjamingeets.be/blog](https://benjamingeets.be/blog) about web dev (but in French only).
+I write on my blog at [https://geets.dev/blog](https://benjamingeets.be/blog) about web dev (but in French only).
 
 Currently learning React.
 
