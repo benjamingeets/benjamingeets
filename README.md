@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://benjamingeets.be">Website</a> •
+  <a href="https://geets.dev">Website</a> •
   <a href="https://www.linkedin.com/in/benjamingeets">Linkedin</a> •
   <a href="https://twitter.com/intent/user?screen_name=benjamingeets">Twitter</a>
 </p>
