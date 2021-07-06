@@ -5,7 +5,7 @@
 </p>
 
 * 👨‍🎓 Studying at [HEPH Condorcet](https://condorcet.be) <br/>
-* 📄 Discover my [portfolio](https://www.notion.so/geets/f4051e384b694f2ca309d2467cee58ed?v=a1c0a56b446b489bb48aa07c1e0f000e)<br/>
+* 📄 Discover my [portfolio](https://portfolio.geets.dev)<br/>
 * 📫 Contact me by [Mail](mailto:benjamin@geets.dev) 
 
 
